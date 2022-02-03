@@ -1,0 +1,7 @@
+.vscode
+/microservice
+*.json
+/logs
+/*.sql
+/nsq
+/tmp
